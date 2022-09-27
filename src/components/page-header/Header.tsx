@@ -1,9 +1,7 @@
 import React, { CSSProperties } from "react";
 
-import { Link } from "react-router-dom";
-{
-  /* <Link to={`/dev`}>Your Name</Link>; */
-}
+// import { Link } from "react-router-dom";
+// <Link to={`/dev`}>Your Name</Link>;
 
 const headerContainer: CSSProperties = {
   display: "flex",
